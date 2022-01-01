@@ -7,7 +7,7 @@
 - Normal Velocity **gets the projectiles the enemies body by CFrame and body velocity**
 - Ping Velocity **gets the projectiles the enemies body by CFrame and body velocity which defies by the ping on your game
 
-# Aimbot
+# Aimbot:
 **Removed**
 
 # Both use Aim Types:
