@@ -8,8 +8,7 @@
 - Ping Velocity **gets the projectiles the enemies body by CFrame and body velocity which defies by the ping on your game
 
 # Aimbot
-# Change Aim Speed:
-- Btw if your using Aim Types called Aim Select on Aimbot please not put the Aim Speed Higher to 4.5 - 5.5 or up
+**Removed**
 
 # Both use Aim Types:
 - Fov Player **If you enable Fov in the main tab you can aimbot and silent aim you need to get the player in the circle on your screen this uses drawing api if your exploit don't support it I suggest you not to use it**
